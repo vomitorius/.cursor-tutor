@@ -1,23 +1,20 @@
-# Teendők Listája (Todo List) Alkalmazás
+todo-list/
+│
+├── assets/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── script.js
+├── index.html
+└── README.md
+```
 
-## 📝 Projekt Leírás
-Ez egy egyszerű, mobilbarát teendőlista alkalmazás, amely lehetővé teszi a felhasználók számára, hogy:
-- Új teendőket adjanak hozzá
-- Megjelöljék a teendőket készként
-- Töröljenek elemeket a listából
-- Az adatok automatikusan mentődnek a böngészőben
+## 🛠️ Telepítés
+1. Klónozd a repository-t
+2. Nyisd meg az `index.html` fájlt böngészőben
 
-## 🚀 Funkciók
-- Reszponzív dizájn (mobil és asztali nézet)
-- Lokális adattárolás (localStorage)
-- Egyszerű és intuitív felhasználói felület
-- Valós idejű frissítések
-- Billentyűzet támogatás (Enter gomb)
+## 📄 Licensz
+MIT License
 
-## 💻 Technológiák
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- localStorage API
-
-## 📁 Projekt Struktúra 
+---
+Készítette: [Név] - [Év]
